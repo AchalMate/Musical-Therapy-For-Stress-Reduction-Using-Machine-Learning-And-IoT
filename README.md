@@ -3,4 +3,3 @@ This research demonstrates the potential of IoT sensors and machine learning alg
 
 Research Paper Link :- https://ieeexplore.ieee.org/document/10574939
 
-Certificate:- ![Uploading IEEE Publication- Achal Mate.PNG…]()
